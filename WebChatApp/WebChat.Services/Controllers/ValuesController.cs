@@ -18,7 +18,7 @@ namespace WebChat.Services.Controllers
         // GET api/values/5
         public string Get(int id)
         {
-            return "value";
+            return "111111111111";
         }
 
         // POST api/values
